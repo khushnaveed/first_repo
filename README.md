@@ -1,6 +1,7 @@
 # My Markdown Exercise
 
  Hi, this is Khush Bakht Naveed. I am a student at DCI and enrolled in a Web Development Program. Currently, Iam learning a Markup Language using a VS Code editor.
+ Till now, I have learned command line tool, git and github.
 
 ## Favorite Hobbies
 
